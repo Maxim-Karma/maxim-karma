@@ -1,12 +1,11 @@
+<p align="center">
 
+<code>Languages</code> | <code>Языки</code>  
+<strong>Russian: Native</strong> | <strong>Русский: Родной</strong><br>
+<strong>English: B1</strong> | <strong>Английский: B1</strong><br>
+<strong>Schweizerdeutsch: Learning</strong> | <strong>Швейцарский-Немецкий: Учу</strong><br>
 
-`Languages` |`Языки`
-**Russian: Native** |**Русский: Родной**\
-**English: B1** |**Английский: B1**\
-**Schweizerdeutsch: Learning** |**Швейцарский-Немецкий: Учу**\
-`Skills` |`Скиллы`\
-**Very-VERY** newbie in programming. But now learning Python. |**Полный новичок** в программировании, но сейчас учу Python.\
+<code>Skills</code> | <code>Скиллы</code><br>
+<strong>Very-VERY newbie in programming. But now learning Python.</strong> | <strong>Полный новичок в программировании, но сейчас учу Python.</strong>
 
-
-![github-user-contribution](https://github.com/user-attachments/assets/d01a4e73-3465-4696-9c48-ffe77c7922e5)
-
+</p>
